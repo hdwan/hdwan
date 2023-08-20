@@ -2,9 +2,7 @@
 
 <!--
 **hdwan/hdwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
       <p><b>email: lxb2000m@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="./me.png" width="100%" style="border-radius: 50%;"> 
+      <img src="./me.png" width="100%" style="border-radius: 50%"> 
     </td>
   </tr>  
 </table>
