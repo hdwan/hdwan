@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       <p><b>email: lxb2000m@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="./me.png" width="100%" style="border-radius: 50%"> 
+      <img src="./me.png" width="100%" style="border-radius: 50%;"> 
     </td>
   </tr>  
 </table>
