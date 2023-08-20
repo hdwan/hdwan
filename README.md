@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       <p><b>email: lxb2000m@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/me.jpg" width="100%">      % 插入证件照代码
+      <img src="/png" width="100%">      % 插入证件照代码
     </td>
   </tr>  
 </table>
