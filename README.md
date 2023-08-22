@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and reading the latest literature.
 - 🌱 &nbsp; Enthusiast in reading and Algorithms.
 - 🎣 &nbsp; I belive, Fishing Man Never Air Force. 
-
+- 💕 &nbsp; If you are blinks, nice to meet you!
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C# | Java | Python 
