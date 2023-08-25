@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Xianbin Lu</h1>
+      <h1>Harper Lu</h1>
       <p><b>position: postgraduate</b></p>
       <p><b>university: School of Computer Science and Technology, Chongqing University of Posts and Telecommunications</b></p>
       <p><b>email: lxb2000m@gmail.com</b></p>
