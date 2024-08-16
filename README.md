@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; I am currently pursuing a master's degree in research areas such as clustering, community detection, and deep learning.
 - 🤔 &nbsp; Exploring new technologies and reading the latest literature.
 - 🌱 &nbsp; Enthusiast in reading and Algorithms.
-- 🎣 &nbsp; I belive, Fishing Man Never Air Force. 
+- 🎣 &nbsp; I belive, Fishing Man Never Air Force.
+- 📜 &nbsp; [A Multi-Embedding Fusion Network for attributed graph clustering](https://doi.org/10.1016/j.asoc.2024.112073)
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C# | Java | Python 
