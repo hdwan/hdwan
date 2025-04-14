@@ -40,14 +40,13 @@ Here are some ideas to get you started:
 - 📜 &nbsp; [A Multi-Embedding Fusion Network for attributed graph clustering](https://doi.org/10.1016/j.asoc.2024.112073).
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | C# | Java | Python 
+- 💻 &nbsp; C++ | Java 
 - 🌐 &nbsp; Android | Web | HTML | CSS | JavaScript | SpringBoot 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; PyCharm | Visual Studio code | IntelliJ IDEA | Git
 <h3 > 📑 Main projects</h3>
 
 - 📝 &nbsp; [Algorithm Notes](https://github.com/hdwan/algorithms)
-- 📝 &nbsp; [Java-notes](https://github.com/hdwan/Java-notes)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="mailto:lxb2000m@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  /></a>
