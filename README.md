@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="75%">
       <h1>Daniel Lu</h1>
-      <p><b>position: master degree candidate</b></p>
+      <p><b>position: Software Engineer</b></p>
       <p><b>university: School of Computer Science and Technology, Chongqing University of Posts and Telecommunications</b></p>
       <p><b>email: lxb2000m@gmail.com</b></p>
     </td>
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I am currently pursuing a master's degree in research areas such as clustering, community detection, and deep learning.
+- 🎓 &nbsp; I've got a master's degree in engineering from Chongqing University of Posts and Telecommunications.
 - 🤔 &nbsp; Exploring new technologies and reading the latest literature.
 - 🌱 &nbsp; Enthusiast in reading and Algorithms.
 - 🎣 &nbsp; I belive, Fishing Man Never Air Force.
-- 📜 &nbsp; [A Multi-Embedding Fusion Network for attributed graph clustering](https://doi.org/10.1016/j.asoc.2024.112073).
+- 📜 &nbsp; My achievements: [A Multi-Embedding Fusion Network for attributed graph clustering](https://doi.org/10.1016/j.asoc.2024.112073).
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Java 
